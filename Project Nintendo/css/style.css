@@ -215,7 +215,7 @@ ul.style1 .posted {
 #footer {
   position: relative;
   bottom: 0;
-  height: 2em;
+  height: 20em;
   width: 100%;
   background: #121212;
   color: rgba(255, 255, 255, .4);
