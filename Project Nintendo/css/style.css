@@ -220,6 +220,7 @@ ul.style1 .posted {
   background: #121212;
   color: rgba(255, 255, 255, .4);
   font-size: small;
+  text-align: left;
 }
 
 #footer header h2 {
